@@ -1,0 +1,8 @@
+The ~/.vimrc and ~/.vim content are following 
+Tamar Saleh's blog post at 
+http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen
+
+One thing to note:
+	at the file ~/.vim/update_bundle, the first line (shebang)
+	should point to your ruby bin of choice. In my case, I am using 
+	rvm. Hence, it is pointing to the ruby 1.9.2 in the rvm path
